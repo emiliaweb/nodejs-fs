@@ -1,0 +1,14 @@
+{
+    "products": [
+        {
+            "name": "Keyboard",
+            "id": "pc6plv"
+        }
+    ],
+    "users": [
+        {
+            "name": "John",
+            "id": "jhll5v"
+        }
+    ]
+}
